@@ -227,6 +227,7 @@
             libsoup_3
             openssl
             pango
+            sqlite
             webkitgtk_4_1
           ];
 
